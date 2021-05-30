@@ -55,3 +55,12 @@
       rgba(109, 186, 130, 0.1) 100%
     );
   }
+body {
+    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/normal.cur),
+        default;
+}
+a,
+img {
+    cursor: url(ttps://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/ayuda.cur),
+        default;
+}
